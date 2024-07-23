@@ -4,7 +4,7 @@
 
 I responded to a variety of **ad hoc requests for consumer goods** data throughout this project. The objective was to use **Power BI** to create **eye-catching visualizations** that effectively communicated the results of **utilizing SQL to answer business questions**.
 
- **𝑳𝒊𝒗𝒆 𝑷𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏 :-** [https://www.linkedin.com/posts/shivam-rajput22_sql-adhocanalysis-techdata-activity-7221526828904030208-id5z?utm_source=share&utm_medium=member_desktop ]
+ **𝑳𝒊𝒗𝒆 𝑷𝒓𝒆𝒔𝒆𝒏𝒕𝒂𝒕𝒊𝒐𝒏 :-** [https://www.linkedin.com/posts/shivam-rajput22_dataanalytics-powerbi-sql-activity-7221546830763814913-C5mj?utm_source=share&utm_medium=member_desktop]
 
 ## Tech Used  :
 
